@@ -8,4 +8,7 @@ The main ipynb files are
 The DS605 SLT folder contains required datasets and other code files in it.
 We also uploaded the presentation and report pdf.
 
-Refer to project_colab_readme for furthur instructions on transformer ipynb.The rest of the .ipynb files were used to experiment and work with.
+
+Refer to project_colab_readme for furthur instructions on transformer ipynb.
+For model checkpoints,refer to this drive link : https://drive.google.com/drive/folders/1FAiCGdti1uZfTFC5WiGv0KenrD2ihauk?usp=sharing
+The rest of the .ipynb files were used to experiment and work with.
