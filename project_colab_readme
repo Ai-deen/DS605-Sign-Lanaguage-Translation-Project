@@ -1,1 +1,5 @@
-
+The project.ipynb uses the git code of the ONMT library. To make sure the code would run without errors in the beam search file we need to change the line 190 in beam_search.py 
+to " self._batch_index = self.topk_ids // vocab_size" (also provided in the colab file).
+Project folder from transformer code - "https://drive.google.com/drive/folders/1--WWbgCd9JCtnsGAeROj1hsSDrz2D_tC?usp=drive_link"
+In this folder we cloned the ONMT library from transformer_slt page and required changes are also made.
+The transformer checkpoints are avilable in the data folder of this link.
